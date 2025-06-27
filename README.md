@@ -48,4 +48,4 @@ This project uses the following Python libraries:
 
 
 **Author:** Hiruna  
-**Course:** EC7212 – Computer Vision and Image Processing
+**Module:** EC7212 – Computer Vision and Image Processing
